@@ -6,7 +6,7 @@
 
 ---
 
-<!-- Big Social Buttons with Hover Effect (Default GitHub behavior) -->
+<!-- Professional Large Action Buttons -->
 [![Portfolio](https://img.shields.io/badge/Check_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sharad-bhaisaniya-sharad-porfolio-n.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharad-bhaisaniya)
 [![WhatsApp](https://img.shields.io/badge/Message_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/91XXXXXXXXXX)
@@ -19,34 +19,36 @@
 </div>
 
 ### 👨‍💻 Professional Summary
-I am a results-driven **Full-stack Developer** from **Indore, MP** with over a year of professional experience in building high-performance web applications. My core expertise lies in developing scalable backend architectures using **Laravel** and **Node.js**, combined with highly interactive frontends using the **MERN stack**.
+I am a results-driven <mark>**Full-stack Developer**</mark> from **Indore, MP** with over a year of professional experience in building high-performance web applications. My core expertise lies in developing scalable backend architectures using <mark>**Laravel and Node.js**</mark>, combined with highly interactive frontends using the <mark>**MERN stack**</mark>.
 
-I specialize in **modern UI/UX paradigms** like Dark Mode and Glassmorphism. My professional portfolio includes:
-* **Fintech Logic:** Secure **Razorpay payment gateways** and automated **KYC verification systems (Digio)**.
-* **ERP Solutions:** Real-time **Inventory Management** and billing systems.
+I specialize in <mark>**modern UI/UX paradigms**</mark> like Dark Mode and Glassmorphism. My professional portfolio includes:
+* **Fintech Logic:** Secure <mark>**Razorpay payment gateways**</mark> and automated <mark>**KYC verification systems (Digio)**</mark>.
+* **ERP Solutions:** Real-time <mark>**Inventory Management**</mark> and billing systems.
 
 <br/>
 
 ### 🛠️ Professional Tech Stack
-*Organized by core competencies with labeled expertise:*
+*High-performance tools & technologies I master:*
 
-#### 🌐 Frontend Development
+#### 🌐 Frontend Engineering
+> **Crafting pixel-perfect, responsive user interfaces.**
 <table width="100%">
   <tr>
     <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=react" width="45"/><br/><sub><b>React.js</b></sub></td>
     <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=js" width="45"/><br/><sub><b>JavaScript</b></sub></td>
     <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br/><sub><b>Tailwind</b></sub></td>
     <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br/><sub><b>Bootstrap</b></sub></td>
-    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=html" width="45"/><br/><sub><b>HTML5</b></sub></td>
+    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=html" width="45"/><br/><sub><b>HTML5/CSS3</b></sub></td>
   </tr>
 </table>
 
-#### ⚙️ Backend & Database
+#### ⚙️ Backend & Systems Architecture
+> **Developing robust, secure, and scalable server-side logic.**
 <table width="100%">
   <tr>
     <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=laravel" width="45"/><br/><sub><b>Laravel</b></sub></td>
-    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=php" width="45"/><br/><sub><b>PHP Core</b></sub></td>
     <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br/><sub><b>Node.js</b></sub></td>
+    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=php" width="45"/><br/><sub><b>PHP Core</b></sub></td>
     <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br/><sub><b>MySQL</b></sub></td>
     <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br/><sub><b>MongoDB</b></sub></td>
   </tr>
@@ -55,12 +57,12 @@ I specialize in **modern UI/UX paradigms** like Dark Mode and Glassmorphism. My 
 <br/>
 
 ### 🌟 Featured Projects
-*   **🚀 Bharat Stock Market Research Platform:** A comprehensive fintech dashboard with **Digio KYC** and **Razorpay integration**.
+*   **🚀 Bharat Stock Market Research Platform:** Comprehensive fintech dashboard with **Digio KYC** and **Razorpay integration**.
 *   **💎 Jewellery ERP & Billing System:** Advanced inventory management with **barcode scanning** and automated invoicing.
 
 <br/>
 
-### 📈 Contribution Activity
+### 📈 Contribution & Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharad-bhaisaniya&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharad-bhaisaniya&layout=compact&theme=dark&hide_border=true" width="40%" />
