@@ -94,6 +94,80 @@ modern aesthetics, and production-ready scalability.
 </table>
 
 ---
+# ✦ TECH ARCHITECTURE
+
+<div align="center">
+
+```mermaid
+graph TB
+
+%% CORE
+A[⚡ SHARAD BHAISANIYA]
+
+%% FRONTEND
+A --> B[🎨 Frontend]
+
+B --> B1[React.js]
+B --> B2[Next.js]
+B --> B3[Tailwind CSS]
+B --> B4[JavaScript]
+B --> B5[TypeScript]
+
+%% BACKEND
+A --> C[⚙️ Backend]
+
+C --> C1[Laravel]
+C --> C2[Node.js]
+C --> C3[Express.js]
+C --> C4[PHP]
+
+%% DATABASE
+A --> D[🗄️ Database]
+
+D --> D1[MongoDB]
+D --> D2[MySQL]
+
+%% TOOLS
+A --> E[🛠️ Tools]
+
+E --> E1[Git]
+E --> E2[GitHub]
+E --> E3[VS Code]
+E --> E4[Figma]
+
+%% STYLING
+style A fill:#06b6d4,color:#fff,stroke:#0f172a,stroke-width:4px
+
+style B fill:#111827,color:#06b6d4,stroke:#06b6d4
+style C fill:#111827,color:#06b6d4,stroke:#06b6d4
+style D fill:#111827,color:#06b6d4,stroke:#06b6d4
+style E fill:#111827,color:#06b6d4,stroke:#06b6d4
+
+style B1 fill:#1e293b,color:#fff
+style B2 fill:#1e293b,color:#fff
+style B3 fill:#1e293b,color:#fff
+style B4 fill:#1e293b,color:#fff
+style B5 fill:#1e293b,color:#fff
+
+style C1 fill:#1e293b,color:#fff
+style C2 fill:#1e293b,color:#fff
+style C3 fill:#1e293b,color:#fff
+style C4 fill:#1e293b,color:#fff
+
+style D1 fill:#1e293b,color:#fff
+style D2 fill:#1e293b,color:#fff
+
+style E1 fill:#1e293b,color:#fff
+style E2 fill:#1e293b,color:#fff
+style E3 fill:#1e293b,color:#fff
+style E4 fill:#1e293b,color:#fff
+```
+
+</div>
+
+
+
+
 
 # ✦ TECH STACK
 
@@ -105,14 +179,88 @@ modern aesthetics, and production-ready scalability.
 
 <br/>
 
+# ✦ TECH EXPERTISE
+
 <div align="center">
 
-| Frontend | Backend | Database | Tools |
-|----------|----------|----------|-------|
-| React.js | Laravel | MongoDB | Git |
-| Tailwind CSS | Node.js | MySQL | GitHub |
-| JavaScript | Express.js | Firebase | VS Code |
-| Bootstrap | PHP | PostgreSQL | Figma |
+<table width="100%">
+<tr>
+
+<td width="25%">
+
+<h3 align="center">🎨 Frontend</h3>
+
+```css
+React.js        ████████████████ 95%
+Next.js         ██████████████░░ 88%
+Tailwind CSS    ███████████████ 92%
+JavaScript      ███████████████ 90%
+TypeScript      ████████████░░░ 80%
+```
+
+</td>
+
+<td width="25%">
+
+<h3 align="center">⚙️ Backend</h3>
+
+```css
+Laravel         ████████████████ 96%
+Node.js         █████████████░░░ 85%
+Express.js      ████████████░░░░ 78%
+PHP             ██████████████░░ 89%
+REST APIs       ███████████████░ 91%
+```
+
+</td>
+
+<td width="25%">
+
+<h3 align="center">🗄️ Database</h3>
+
+```css
+MongoDB         █████████████░░░ 84%
+MySQL           ██████████████░░ 88%
+Firebase        ███████████░░░░░ 72%
+PostgreSQL      ██████████░░░░░░ 68%
+Redis           █████████░░░░░░░ 60%
+```
+
+</td>
+
+<td width="25%">
+
+<h3 align="center">🛠️ Tools</h3>
+
+```css
+Git             ███████████████░ 90%
+GitHub          ███████████████░ 92%
+VS Code         ████████████████ 96%
+Figma           █████████████░░░ 83%
+Linux           ███████████░░░░░ 74%
+```
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# ✦ DEVELOPMENT MATRIX
+
+<div align="center">
+
+```css
+Frontend Engineering     ████████████████████ 95%
+Backend Architecture     ██████████████████░ 92%
+Database Management      ████████████████░░░ 84%
+UI/UX Design             █████████████████░░ 88%
+API Integration          ██████████████████░ 91%
+System Optimization      ███████████████░░░░ 80%
+```
 
 </div>
 
@@ -204,13 +352,18 @@ modern aesthetics, and production-ready scalability.
 
 ---
 
-# ✦ CONTRIBUTION SNAKE
+# ✦ CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/sharad-bhaisaniya/sharad-bhaisaniya/output/github-contribution-grid-snake-dark.svg"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharad-bhaisaniya&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
+
+<br/>
+
+
+
 
 ---
 
