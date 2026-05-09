@@ -1,84 +1,54 @@
 <div align="center">
 
-# 🚀 Sharad Bhaisaniya
-<!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&width=435&lines=Full-stack+Developer;Laravel+Expert;MERN+Stack+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
+# ✦ SHARAD BHAISANIYA ✦
 
----
-
-<!-- Professional Large Action Buttons -->
-[![Portfolio](https://img.shields.io/badge/Check_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sharad-bhaisaniya-sharad-porfolio-n.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharad-bhaisaniya)
-[![WhatsApp](https://img.shields.io/badge/Message_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/91XXXXXXXXXX)
-<br/>
-[![Instagram](https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM_ID)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavishybhaisaniya1432@gmail.com)
-
----
-
-</div>
-
-### 👨‍💻 Professional Summary
-I am a results-driven <mark>**Full-stack Developer**</mark> from **Indore, MP** with over a year of professional experience in building high-performance web applications. My core expertise lies in developing scalable backend architectures using <mark>**Laravel and Node.js**</mark>, combined with highly interactive frontends using the <mark>**MERN stack**</mark>.
-
-I specialize in <mark>**modern UI/UX paradigms**</mark> like Dark Mode and Glassmorphism. My professional portfolio includes:
-* **Fintech Logic:** Secure <mark>**Razorpay payment gateways**</mark> and automated <mark>**KYC verification systems (Digio)**</mark>.
-* **ERP Solutions:** Real-time <mark>**Inventory Management**</mark> and billing systems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=34&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Full-stack+Developer;Laravel+%7C+MERN+Engineer;Crafting+Premium+Digital+Experiences;Building+Scalable+Fintech+Solutions" />
 
 <br/>
 
-### 🛠️ Professional Tech Stack
-*High-performance tools & technologies I master:*
-
-#### 🌐 Frontend Engineering
-> **Crafting pixel-perfect, responsive user interfaces.**
-<table width="100%">
-  <tr>
-    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=react" width="45"/><br/><sub><b>React.js</b></sub></td>
-    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=js" width="45"/><br/><sub><b>JavaScript</b></sub></td>
-    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br/><sub><b>Tailwind</b></sub></td>
-    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br/><sub><b>Bootstrap</b></sub></td>
-    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=html" width="45"/><br/><sub><b>HTML5/CSS3</b></sub></td>
-  </tr>
-</table>
-
-#### ⚙️ Backend & Systems Architecture
-> **Developing robust, secure, and scalable server-side logic.**
-<table width="100%">
-  <tr>
-    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=laravel" width="45"/><br/><sub><b>Laravel</b></sub></td>
-    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br/><sub><b>Node.js</b></sub></td>
-    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=php" width="45"/><br/><sub><b>PHP Core</b></sub></td>
-    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br/><sub><b>MySQL</b></sub></td>
-    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br/><sub><b>MongoDB</b></sub></td>
-  </tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:06b6d4&height=220&section=header&text=Digital%20Architect&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Modern%20UI%20%E2%80%A2%20Scalable%20Systems%20%E2%80%A2%20Clean%20Code&descAlignY=58"/>
 
 <br/>
 
-### 🌟 Featured Projects
-*   **🚀 Bharat Stock Market Research Platform:** Comprehensive fintech dashboard with **Digio KYC** and **Razorpay integration**.
-*   **💎 Jewellery ERP & Billing System:** Advanced inventory management with **barcode scanning** and automated invoicing.
+<a href="https://sharad-bhaisaniya-sharad-porfolio-n.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=00F5FF"/>
+</a>
 
-<br/>
+<a href="https://www.linkedin.com/in/sharad-bhaisaniya">
+<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
+</a>
 
-### 📈 Contribution & Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharad-bhaisaniya&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharad-bhaisaniya&layout=compact&theme=dark&hide_border=true" width="40%" />
-</div>
+<a href="mailto:bhavishybhaisaniya1432@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
+</a>
 
-<br/>
+<a href="https://wa.me/91XXXXXXXXXX">
+<img src="https://img.shields.io/badge/WHATSAPP-0F172A?style=for-the-badge&logo=whatsapp&logoColor=00F5FF"/>
+</a>
 
-<!-- Animated Activity Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sharad-bhaisaniya/sharad-bhaisaniya/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sharad-bhaisaniya&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge"/>
+
 </div>
 
 ---
 
-<div align="center">
+# ⚡ ABOUT ME
 
-**Building scalable solutions, one commit at a time.** 📍 Based in **Indore, India**
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-</div>
+```js
+const sharad = {
+    location: "Indore, India",
+    role: "Full-stack Developer",
+    experience: "1+ Years",
+    specialization: [
+        "Laravel Development",
+        "MERN Stack Apps",
+        "Fintech Platforms",
+        "ERP Solutions",
+        "Modern UI/UX"
+    ],
+    currentFocus: "Building scalable digital products",
+};
